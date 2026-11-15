@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+
+## Base de datos local (opcional excluir o mantener según preferencia)
+# *.db
+
+## Visual Studio
+.vs/
+*.userprefs
+
+## Rider
+.idea/
+
+## OS
+Thumbs.db
+.DS_Store
