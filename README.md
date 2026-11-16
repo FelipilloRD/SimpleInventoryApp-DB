@@ -72,7 +72,7 @@ Al ejecutarse por primera vez, se creará automáticamente el archivo `inventory
 
 ## Evolución del Proyecto
 
-1. **Fase 1 (Estructurada)**: Datos en colecciones en memoria (`List`, `Dictionary`), sin clases ni funciones.
+1. **Fase 1 (Estructurada)**: Manejo de datos en memoria utilizando colecciones (`List` y `Dictionary`).
 2. **Fase 2 (POO)**: Encapsulación en clases (`Product`, `InventoryManager`), código limpio y modular.
 3. **Fase 3 (Base de Datos)**: Integración con base de datos SQLite y Entity Framework Core, persistencia permanente.
 
