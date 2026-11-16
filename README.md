@@ -78,4 +78,4 @@ Al ejecutarse por primera vez, se creará automáticamente el archivo `inventory
 
 ## Autor
 
-Desarrollado como proyecto para el curso de Programación 1.
+Felipillo LF - Proyecto Programacion
